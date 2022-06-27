@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# sobre mim
+- ola,eu sou o alex;
+- estou interessado em curso;
+- atualmemte estou aprendendo jogos scratch e  javascript;
+- estou disponilvel para colaborar e ajudar meu colegas;
+- instagram:@alex_goncalves_wz
+- 
 <!--
 **pitbuul/pitbuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
